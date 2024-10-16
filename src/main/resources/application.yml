@@ -1,0 +1,9 @@
+server:
+  port: "9090"
+spring:
+  application:
+    name: "E_COM_APP_BECODER"
+  main:
+    banner-mode: "off"
+api:
+  prefix: "/api/v1"
